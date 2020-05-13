@@ -3,5 +3,4 @@ This project is a homework assignment to teach how to get Pycharm setup with Doc
 
 
 
-[The computer beat me.](screenshots/Screenshot%20(57).png)
 
